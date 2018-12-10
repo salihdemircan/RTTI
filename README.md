@@ -1,4 +1,3 @@
-Rtti(Reflection) Practices
-=========================
+Rtti (Yansıma) Uygulamaları
 
-This repo contains rtti(reflection library) practices
+Bu repo, rtti (yansıma kütüphanesi) uygulamalarını içerir.
